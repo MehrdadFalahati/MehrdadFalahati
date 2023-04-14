@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**MehrdadFalahati/MehrdadFalahati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mehrdad Falahati, a Senior Java Developer with over 6 years of experience in developing enterprise-grade web applications. I have a deep understanding of Java, Spring Framework, and Hibernate among other technologies.
+🔭 My areas of expertise include:
 
-Here are some ideas to get you started:
+    Designing and implementing complex software systems
+    Writing clean, maintainable, and scalable code
+    Building RESTful APIs using Spring Boot
+    Developing microservices architectures
+    Creating and managing databases (SQL, NoSQL)
+    Implementing security measures to protect applications from cyber threats
+    Conducting code reviews, testing, and debugging
+    Mentoring junior developers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I'm currently learning:
+
+    Cloud-native technologies
+    Kotlin
+
+💬 Let's connect:
+
+    LinkedIn: [https://www.linkedin.com/in/mehrdad-falahati/]
+    Email: [m.falahati2022@gmail.com]
+
