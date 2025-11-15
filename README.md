@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Senior Java Developer passionate about building enterprise-grade web applications. I have a deep understanding of Java, Spring Framework, and Hibernate among other technologies.
+I'm a Senior Software Engineer passionate about building enterprise-grade web applications. I have a deep understanding of Java, Spring Framework, Hibernate, and other related technologies.
 
 ## 🚀 Tech Stack
 
